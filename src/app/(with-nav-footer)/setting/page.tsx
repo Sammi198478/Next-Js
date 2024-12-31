@@ -1,9 +1,9 @@
-import React from 'react'
-
 const SettingPage = () => {
   return (
-    <div>SettingPage</div>
-  )
-}
+    <main className="flex justify-center items-center w-full h-screen">
+      <h1 className="text-5xl font-bold text-green-500 ">Setting Page</h1>
+    </main>
+  );
+};
 
 export default SettingPage;
